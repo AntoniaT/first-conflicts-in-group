@@ -1,0 +1,9 @@
+#simona {
+  width: 20vw;
+  height: 20vh;
+  background-color: darkmagenta;
+  text-align: center;
+  padding-top: 4em;
+  border: dotted 5px black;
+  font-size: 25px;
+}
